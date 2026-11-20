@@ -1,16 +1,16 @@
-const firstName = "Viveen-lee"
+const firstName = "Viveen-lee";
 console.log(firstName);
 
-const lastName = "Jantjies"
+const lastName = "Jantjies";
 console.log(lastName);
 
-let age = 21
+let age = 21;
 console.log(age);
 
-const fullName = firstName + " " + lastName
+const fullName = firstName + " " + lastName;
 console.log(fullName);
 
-let greeting = " Hello, I am " + firstName + " " + lastName + " and I am " + age + " years old. "
+let greeting =" Hello, I am " + firstName + " " + lastName + " and I am " + age + " years old. ";
 console.log(greeting);
 
 age += 1
